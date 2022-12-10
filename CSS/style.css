@@ -1,0 +1,56 @@
+
+body {
+  font-family: Noto Sans Thai;
+}
+
+* {
+  padding: 5px;
+}
+
+.music {
+  list-style-type: decimal;
+}
+.places {
+  list-style-type: upper-latin;
+}
+a:link{
+  color: blue;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  font-weight: bold;
+  color: violet;
+}
+
+
+
+
+
+
+
+
+h1 {
+  font-family: cursive, Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  font-weight: bolder;
+  text-decoration: dashed;
+  font-variant: small-caps;
+}
+#description {
+  line-height: 2em;
+  color: rgb(16, 0, 6);
+  background-color: rgb(15, 205, 15);
+  border: 2px solid blue;
+  text-align: left;
+}
+.frame {
+  color: brown;
+}
+.Sapiente {
+  color: blue;
+  padding: 10px;
+  border: 1px solid red;
+  background-color: yellow;
+}

@@ -1,0 +1,10 @@
+* {
+  padding: 5px;
+  border-radius: 0;
+}
+.Places {
+  list-style-type: lower-greek;
+}
+.Bands {
+  list-style-type: decimal;
+}
